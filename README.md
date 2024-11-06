@@ -8,5 +8,6 @@ Contains links to researchers'personal repositories consist of various source co
 | Anis El Gabli | https://github.com/aelgabli?tab=repositories |
 | Chaouki Ben Issaid | https://github.com/ChaoukiBenIssaid?tab=repositories |
 | Malith Gallage | https://github.com/malithgallage?tab=repositories |
+| Hossein Firouzjaei | https://github.com/HosseinFirouzjaei?tab=repositories |
 | Rafaela Scaciota Simões da Silva |https://github.com/rafaelascaciota?tab=repositories |
 | Sumudu Samarakoon | https://github.com/spsamare?tab=repositories |
