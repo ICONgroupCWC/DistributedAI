@@ -1,4 +1,4 @@
-# DistributedAI
+# ICON Researchers Github Page
 
 Contains links to researchers'personal repositories consist of various source codes related to their published research works.
 
